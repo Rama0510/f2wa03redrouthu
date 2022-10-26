@@ -12,7 +12,7 @@ router.get('/', function(req,res,next) {
 
     var num2 = Math.floor(Math.random() * 10);
 
-    var num3 = Math.floor(Math.random() * 10);
+    var num3 = Math.floor(Math.random() * 1);
 
     var num4 = Math.floor(Math.random() * 10);
 

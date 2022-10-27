@@ -37,11 +37,11 @@ router.get('/', function(req,res,next) {
         num3: num3,
 
         num4: num4,
-
+       
         atan2: atan2Function,
-
+       
         atanh: atanhFunction,
-
+        
         cbrt: cbrtFunction,
 
        
